@@ -4,4 +4,4 @@ class Solution :
 
 obj = Solution()
 
-obj.add(1,3)
+obj.add(1,4)
